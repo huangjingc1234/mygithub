@@ -21,6 +21,9 @@
 #ifndef _DATA_TYPE_H_
 #define _DATA_TYPE_H_
 
+#define GIT_TEST1
+#define GIT_TEST2
+
 // data type definition
 typedef signed char			int8_t;
 typedef unsigned char		uint8_t;
